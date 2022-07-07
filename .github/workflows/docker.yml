@@ -18,7 +18,6 @@ jobs:
         with:
           images: xrayrr/xrayr
           tags: |
-            type=semver,pattern={{raw}}
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
       -
