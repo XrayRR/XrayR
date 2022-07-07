@@ -17,7 +17,7 @@ A Xray backend framework that can easily support many panels.
 
 本项目只是本人个人学习开发并维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
 
-## 特点
+## 项目特点
 
 * 永久开源且免费。
 * 支持V2ray，Trojan， Shadowsocks多种协议。
@@ -55,16 +55,22 @@ A Xray backend framework that can easily support many panels.
 | [PMPanel](https://github.com/ByteInternetHK/PMPanel)   | √     | √      | √                              |
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                              |
 
-## TODO
+## 特别说明
 
-* 支持WARP Socks5代理模式分流
+* 本项目基于 Misaka-Blog(已删库) 的最终版本 v0.8.2.6
+* 由于版本命名方式不符合 [SemVer](https://semver.org) 的规范要求，遂将版本号修改从为v0.8.3开始，其它代码并无改动
 
 ## 软件安装
-
 ### 一键安装
 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/XrayRR/XrayR-script/master/install.sh)
+```
+
+### Docker镜像地址
+
+```
+xrayrr/xrayr:latest
 ```
 
 ### 使用Docker部署
