@@ -9,7 +9,7 @@ A Xray backend framework that can easily support many panels.
 
 如果您喜欢本项目，可以右上角点个star+watch，持续关注本项目的进展。
 
-使用教程：[详细使用教程](https://crackair.gitbook.io/xrayr-project/)
+使用教程：[详细使用教程](https://xrayrr.gitbook.io/xrayr-doc/)
 
 如对脚本不放心，可使用此沙箱先测一遍再使用：https://killercoda.com/playgrounds/scenario/ubuntu
 
@@ -75,15 +75,15 @@ xrayrr/xrayr:latest
 
 ### 使用Docker部署
 
-[Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
+[Docker部署教程](https://xrayrr.gitbook.io/xrayr-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
 
 ### 手动安装
 
-[手动安装教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/manual)
+[手动安装教程](https://xrayrr.gitbook.io/xrayr-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
 
 ## 配置文件及详细使用教程
 
-[详细使用教程](https://crackair.gitbook.io/xrayr-project/)
+[详细使用教程](https://xrayrr.gitbook.io/xrayr-doc/)
 
 ## Thanks
 
@@ -94,7 +94,7 @@ xrayrr/xrayr:latest
 
 ## Licence
 
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
+[Mozilla Public License Version 2.0](https://github.com/XrayRR/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
